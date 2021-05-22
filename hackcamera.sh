@@ -1,5 +1,4 @@
-#!/bin/bash
-# MR REY
+
 # TOOLS INI BISA INTIP TITID ORANG
 
 trap 'printf "\n";stop' 2
@@ -14,9 +13,9 @@ echo "
 ██▌└┘▐███▌└┘▐███▌└┘▐██
 ██┼┼┼┼███┼┼┼┼███┼┼┼┼██
 ██▄▄▄▄███▄▄▄▄███▄▄▄▄██
-      -= MR.CROOT X MR.FaDedTy =-
+      -=MR.CROOT X MR.FaDedTy
 <×=====================×>
-  ×3XPLOIT.IDx
+  ×3XPLOIT.ID
 <×=====================×>
  
 " | lolcat
@@ -24,7 +23,7 @@ read -p $'Pilih Y/N:' option
 
 clear
 sleep 2
-echo 'sabar lodaing
+echo 'LOADING'
 sleep 2
 clear
 echo '█▒▒▒▒▒▒▒▒▒10%'
@@ -58,13 +57,13 @@ echo '██████████100%'
 clear
 
 echo '
-======>MR.CROOT X MR.FaDedTy
+======>MR.FaDedTy X MR.CROOT<======
 ' | lolcat
+echo ' Developer MR.FaDedTy |lolcat
 echo '<==================================>' | lolcat
 echo '       <==HACKCAM PROJECT==>' | lolcat
 echo '<==================================>' | lolcat
-echo 'Note : Hidupkan Hostpot Sebelum memulai tools' |lolcat
-
+echo 'Note : Wajib hidupkan Hostpot sebelum memulai tools |lolcat
 
 printf "\n"
 
@@ -292,4 +291,3 @@ checkfound
 banner
 dependencies
 start1
-

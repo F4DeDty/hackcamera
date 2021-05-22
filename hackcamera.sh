@@ -58,13 +58,12 @@ clear
 
 echo '
 ======>MR.FaDedTy X MR.CROOT<======
+Developer by MR.FaDedTy
 ' | lolcat
-echo 'Developer MR.FaDedTy' | lolcat
 echo '<==================================>' | lolcat
 echo '       <==HACKCAM PROJECT==>' | lolcat
 echo '<==================================>' | lolcat
-echo 'Note : Wajib hidupkan Hostpot sebelum memulai tools!'
- | lolcat
+
 
 printf "\n"
 

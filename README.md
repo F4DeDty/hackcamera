@@ -17,7 +17,7 @@ pkg install ruby
 
 gem install lolcat
 
-git clone https://github.com/FaDeDty/hackcamera
+git clone https://github.com/F4DeDty/hackcamera
 
 cd hackcamera
 

@@ -13,11 +13,11 @@ echo "
 ██▌└┘▐███▌└┘▐███▌└┘▐██
 ██┼┼┼┼███┼┼┼┼███┼┼┼┼██
 ██▄▄▄▄███▄▄▄▄███▄▄▄▄██
-      -=MR.CROOT X MR.FaDedTy
+  -=MR.CROOT X MR.FaDedTy=-
 <×=====================×>
-  ×3XPLOIT.ID
+      ×3XPLOIT.ID×
 <×=====================×>
- 
+Note : HIDUPKAN HOSTPOT SEBELUM MEMULAI TOOLS
 " | lolcat
 read -p $'Pilih Y/N:' option
 
@@ -59,11 +59,12 @@ clear
 echo '
 ======>MR.FaDedTy X MR.CROOT<======
 ' | lolcat
-echo ' Developer MR.FaDedTy |lolcat
+echo 'Developer MR.FaDedTy' | lolcat
 echo '<==================================>' | lolcat
 echo '       <==HACKCAM PROJECT==>' | lolcat
 echo '<==================================>' | lolcat
-echo 'Note : Wajib hidupkan Hostpot sebelum memulai tools |lolcat
+echo 'Note : Wajib hidupkan Hostpot sebelum memulai tools!'
+ | lolcat
 
 printf "\n"
 
